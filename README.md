@@ -24,7 +24,7 @@ pip-sync
 Finally, you can run the web server using:
 
 ```bash
-uvicorn main:app --reload
+uvicorn app.main:app --reload
 ```
 
 Have fun!
